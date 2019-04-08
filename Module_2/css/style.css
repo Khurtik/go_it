@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    text-align: center;
+    margin-bottom: 103px;
+}
+    
+ul li{
+    display: inline-block;
+    margin-right: 121px;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.title li :not(:last child){
+    margin-right: 121px;
+}
+
+body{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.festival{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-right: 55px;
+}
+
+.festival_photo{
+    width: 420px;
+    height: 280px;
+}
+.festival_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.coffee{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+}
+
+.coffee_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.coffee_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255);
+}
+
+.dream{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-right: 55px;
+    margin-top: 130px;
+}
+
+.dream_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.dream_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255); 
+}
+
+.alps{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-top: 130px;
+}
+
+.alps_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.alps_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255); 
+}
+
+.festival_title{
+    font-family: 'Playfair Display SC', serif;
+}
+
+.song{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-right: 55px;
+    margin-top: 130px;
+}
+
+.song_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.song_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255); 
+}
+
+.winter{
+    display: inline-block;
+    width: 420px;
+    height: 280px;
+    margin-top: 130px;
+}
+
+.winter_photo{
+    width: 420px;
+    height: 280px;
+}
+
+.winter_text{
+    font-size: 14px;
+    color: rgba(98, 98, 98, 255); 
+}
+
+/*.container{
+    width: 164px;
+    height: 60px;
+    font-size: 20px;
+    color: rgba(98, 98, 98, 255);
+}
